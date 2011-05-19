@@ -1,0 +1,3 @@
+This is the Python (pycuda, h5py, jinja2) back-end for the Grid Compute Engine.
+
+Grid Compute Engine (gce) allows non-GPU experts to implement arbitrary finite-difference operations on a multi-GPU environment.
